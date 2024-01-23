@@ -1,5 +1,5 @@
 # Opencourseware and MOOC
-This repo is a record of OCWs and MOOCs I've heard about.
+This repo is a record of OCWs and MOOCs I have taken.
 
 # List
 
