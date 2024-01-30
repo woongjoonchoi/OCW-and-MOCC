@@ -5,7 +5,7 @@ This repo is a record of OCWs and MOOCs I have taken.
 
 ## DeepLearning Specialization : 
 
-certificate([link](https://www.coursera.org/account/accomplishments/certificate/ES73H22W7LTR) ) 
+certificate([link](https://www.coursera.org/account/accomplishments/specialization/certificate/GPNF3DE2AFAX) ) 
   
 <details>
     <summary> Assignment(버튼클릭) </summary>  
