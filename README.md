@@ -8,7 +8,7 @@ This repo is a record of OCWs and MOOCs I have taken.
 certificate([link](https://www.coursera.org/account/accomplishments/certificate/ES73H22W7LTR) ) 
   
 <details>
-    <summary> Assignment</summary>  
+    <summary> Assignment(버튼클릭) </summary>  
 
 
 1. [Optimization Assignment from scratch - Korean](https://woongjoonchoi.github.io/dls_c2/Optimization-scratch/)
