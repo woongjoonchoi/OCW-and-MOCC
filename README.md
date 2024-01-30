@@ -3,7 +3,9 @@ This repo is a record of OCWs and MOOCs I have taken.
 
 # List
 
-+ DeepLearning Specialization : certificate([link](https://www.coursera.org/account/accomplishments/certificate/ES73H22W7LTR) )  , assignment(link[] )  , note taking()
+## DeepLearning Specialization : 
+
+certificate([link](https://www.coursera.org/account/accomplishments/certificate/ES73H22W7LTR) ) 
   
 <details>
     <summary> Assignment</summary>  
@@ -19,12 +21,12 @@ This repo is a record of OCWs and MOOCs I have taken.
 
  </details> 
 
-+ MIt 6.006(Introduction to Algorithm):
+## MIt 6.006(Introduction to Algorithm):
 
-+ Berkely CS 162 : 
+## Berkely CS 162 : 
 
-+ Khan Academy Statistics:
+## Khan Academy Statistics:
 
-+ 3b1b  Linear Algebra: NoteTaking
+## 3b1b  Linear Algebra
 
-+ 3b1b Calculus : NoteTaking
+## 3b1b Calculus 
