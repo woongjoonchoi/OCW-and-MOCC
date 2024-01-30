@@ -18,6 +18,10 @@ certificate([link](https://www.coursera.org/account/accomplishments/specializati
 2. [Convolution Assignment from scratch - Korean](https://woongjoonchoi.github.io/dls_c2/conv-scratch/)
 
    [Convolution Assignment from scratch - English](https://oongjoon.github.io/dls_c2/conv-scratch/)
+   
+3. [FeedForward Math derivation - korean](https://woongjoonchoi.github.io/dlarchitecture/Feed-Forward-Network/)
+   
+   [FeedForward Math derivation - english](https://oongjoon.github.io/dlarchitecture/FeedForward/)
 
  </details> 
 
